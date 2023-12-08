@@ -1,4 +1,4 @@
-# Count Face Detection
+# face-detection-with-count
 
 ## Overview
 
