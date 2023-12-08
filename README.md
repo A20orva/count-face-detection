@@ -16,12 +16,19 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Keyboard Shortcuts
 Press 'q' to exit the application.
 
-Feel free to modify the content, include additional sections, or customize it to better fit your project's specifics.
-
 ## Prerequisites
 
 Before running the script, ensure you have the required libraries installed:
 
 ```bash
 pip install opencv-python face_recognition
+```
+
+run the script by using this command 
+```bash
+python face_detection.py
+```
+The script will open your camera feed and start detecting faces in real-time.
+
+Feel free to modify the content, include additional sections, or customize it to better fit your project's specifics.
 
